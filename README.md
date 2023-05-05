@@ -1,3 +1,10 @@
+```
+helloIcp_backend canister created on network ic with canister id: dptkp-bqaaa-aaaap-aa6ga-cai
+helloIcp_frontend canister created on network ic with canister id: dism3-miaaa-aaaap-aa6gq-cai
+```
+
+Really nice tech, can´t wait to see how it works
+
 # helloIcp
 
 Welcome to your new helloIcp project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
